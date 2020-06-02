@@ -1,3 +1,4 @@
+# BUAN 6341: Applied Machine Learning
 # SGEMM-GPU-Kernel-Performance-Prediction
 Implementing Linear and Logistic regression using Gradient Descent algorithm
 
@@ -8,4 +9,6 @@ Part 1: Download the dataset and partition it randomly into train and test set u
 Part 2: Design a linear regression model to model the average GPU run time. Include your regression model equation in the report.
 Part 3: Implement the gradient descent algorithm with batch update rule. Use the same cost function as in the class (sum of squared error). Report your initial parameter values.
 Part 4: Convert this problem into a binary classification problem. The target variable should have two categories. Implement logistic regression to carry out classification on this data set. Report accuracy/error metrics for train and test sets.
+
+
 
